@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrytomakeaMapengine", "TrytomakeaMapengine.csproj", "{23808A80-90F1-4E95-890F-C6716E345A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrytomakeaMapengineContent", "..\TrytomakeaMapengineContent\TrytomakeaMapengineContent.contentproj", "{CC26B06C-777A-469D-90FB-72F881832881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23808A80-90F1-4E95-890F-C6716E345A36}.Debug|x86.ActiveCfg = Debug|x86
+		{23808A80-90F1-4E95-890F-C6716E345A36}.Debug|x86.Build.0 = Debug|x86
+		{23808A80-90F1-4E95-890F-C6716E345A36}.Release|x86.ActiveCfg = Release|x86
+		{23808A80-90F1-4E95-890F-C6716E345A36}.Release|x86.Build.0 = Release|x86
+		{CC26B06C-777A-469D-90FB-72F881832881}.Debug|x86.ActiveCfg = Debug|x86
+		{CC26B06C-777A-469D-90FB-72F881832881}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
